@@ -191,7 +191,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/veritas-builders-logo.png
+      url: /images/Interior Dining Room.png
       altText: Veritas Builders craftsmanship
       type: ImageBlock
     elementId: about
