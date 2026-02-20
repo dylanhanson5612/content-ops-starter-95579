@@ -505,7 +505,7 @@ sections:
           native landscaping on 3 acres, and geothermal heating and cooling
           throughout.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Contemporary Glass Exterior.png
           altText: Client testimonial
           styles:
             self:
