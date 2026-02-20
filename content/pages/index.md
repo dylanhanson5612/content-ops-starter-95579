@@ -120,7 +120,7 @@ sections:
           Maryland, and Virginia. We understand the unique character of each
           community and build homes that complement their surroundings.
         image:
-          url: /images/icon3.svg
+          url: /images/Aerial Neighborhood Exterior.png
           altText: Location icon
           elementId: ''
           type: ImageBlock
