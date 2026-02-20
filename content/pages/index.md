@@ -87,6 +87,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/Interior Living and Kitchen.png
       - title: 100% Sustainable
         subtitle: Green Built from the Ground Up
         text: >-
