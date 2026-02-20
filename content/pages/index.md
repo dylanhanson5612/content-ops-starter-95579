@@ -84,7 +84,6 @@ sections:
           type: ImageBlock
           altText: Large luxury home icon
           elementId: ''
-          url: /images/Interior Living and Kitchen.png
           styles:
             self:
               borderRadius: x-large
