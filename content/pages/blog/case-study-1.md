@@ -3,9 +3,11 @@ title: The Kensington Estate
 slug: case-study-1
 date: '2025-01-15'
 excerpt: >-
-  A 6,500 sq ft modern estate in Bethesda, MD featuring a dramatic stone facade, integrated solar array, and expansive glass walls overlooking 2 acres of professionally landscaped grounds.
+  A 6,500 sq ft modern estate in Bethesda, MD featuring a dramatic stone facade,
+  integrated solar array, and expansive glass walls overlooking 2 acres of
+  professionally landscaped grounds.
 featuredImage:
-  url: /images/abstract-feature1.svg
+  url: /images/IMG_0117.jpeg
   altText: The Kensington Estate by Veritas Builders
   styles:
     self:
@@ -31,7 +33,8 @@ bottomSections:
       type: TitleBlock
     subtitle: Contact us to schedule a complimentary consultation
     text: >
-      Every Veritas home begins with a conversation. Tell us about your vision and we'll help you bring it to life.
+      Every Veritas home begins with a conversation. Tell us about your vision
+      and we'll help you bring it to life.
     actions:
       - label: View All Projects
         url: /blog
