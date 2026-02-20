@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/ChatGPT Image Oct 9, 2025, 10_51_06 AM.png
+      url: /images/Branding Moodboard.png
       altText: Veritas Builders - Luxury Sustainable Home Builder
       elementId: ''
       type: ImageBlock
