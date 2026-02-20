@@ -361,7 +361,7 @@ sections:
           and entertainment throughout. Every Veritas home is wired for the
           future with the latest in home automation infrastructure.
         image:
-          url: /images/Smart_Light_a680e424-11ca-4ccc-bf1b-f26322ee3037.webp
+          url: /images/Smart_Light_a680e424-11ca-4ccc-bf1b-f26322ee3037.PNG
           altText: Smart home
           styles:
             self:
