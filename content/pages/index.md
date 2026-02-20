@@ -9,7 +9,11 @@ sections:
       type: TitleBlock
     subtitle: High-End Sustainable Living in DC, Maryland & Virginia
     text: >
-      Veritas Builders creates exceptional modern homes that harmonize luxury living with environmental responsibility. Every home we build exceeds 5,000 square feet on one acre or more, featuring cutting-edge sustainable technology, stunning architecture, and meticulous craftsmanship throughout the DC, Maryland, and Virginia region.
+      Veritas Builders creates exceptional modern homes that harmonize luxury
+      living with environmental responsibility. Every home we build exceeds
+      5,000 square feet on one acre or more, featuring cutting-edge sustainable
+      technology, stunning architecture, and meticulous craftsmanship throughout
+      the DC, Maryland, and Virginia region.
     actions:
       - label: View Our Work
         altText: View portfolio
@@ -30,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/veritas-builders-logo.png
+      url: /images/ChatGPT Image Oct 9, 2025, 10_51_06 AM.png
       altText: Veritas Builders - Luxury Sustainable Home Builder
       elementId: ''
       type: ImageBlock
@@ -59,7 +63,9 @@ sections:
         title: 5,000+ Sq Ft
         subtitle: Homes of Distinction
         text: >-
-          Every Veritas home exceeds 5,000 square feet of thoughtfully designed living space, situated on a minimum of one acre. Expansive layouts offer room for both grand entertaining and intimate family moments.
+          Every Veritas home exceeds 5,000 square feet of thoughtfully designed
+          living space, situated on a minimum of one acre. Expansive layouts
+          offer room for both grand entertaining and intimate family moments.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -85,7 +91,9 @@ sections:
       - title: 100% Sustainable
         subtitle: Green Built from the Ground Up
         text: >-
-          From solar panel arrays to energy-efficient glass systems, every Veritas home is designed for minimal environmental impact without compromising on luxury or comfort. We build for generations.
+          From solar panel arrays to energy-efficient glass systems, every
+          Veritas home is designed for minimal environmental impact without
+          compromising on luxury or comfort. We build for generations.
         image:
           url: /images/icon2.svg
           altText: Sustainability icon
@@ -108,7 +116,9 @@ sections:
       - title: DC / MD / VA
         subtitle: Premier DMV Builder
         text: >-
-          Serving the most prestigious neighborhoods across Washington DC, Maryland, and Virginia. We understand the unique character of each community and build homes that complement their surroundings.
+          Serving the most prestigious neighborhoods across Washington DC,
+          Maryland, and Virginia. We understand the unique character of each
+          community and build homes that complement their surroundings.
         image:
           url: /images/icon3.svg
           altText: Location icon
@@ -159,10 +169,20 @@ sections:
       type: TitleBlock
     subtitle: Truth in Every Detail
     text: >
-      Founded on the principle that luxury and sustainability are not mutually exclusive, Veritas Builders has established itself as the premier custom home builder in the greater DC, Maryland, and Virginia region. Our name — from the Latin word for "truth" — reflects our unwavering commitment to honest craftsmanship, transparent partnerships, and genuine quality in everything we build.
+      Founded on the principle that luxury and sustainability are not mutually
+      exclusive, Veritas Builders has established itself as the premier custom
+      home builder in the greater DC, Maryland, and Virginia region. Our name —
+      from the Latin word for "truth" — reflects our unwavering commitment to
+      honest craftsmanship, transparent partnerships, and genuine quality in
+      everything we build.
 
 
-      We specialize in homes over 5,000 square feet on lots of one acre or larger, ensuring every residence has the space and setting it deserves. Our team of architects, engineers, and master craftsmen work together to create homes that are as beautiful as they are responsible — blending modern aesthetics with time-tested building techniques and the latest in green technology.
+      We specialize in homes over 5,000 square feet on lots of one acre or
+      larger, ensuring every residence has the space and setting it deserves.
+      Our team of architects, engineers, and master craftsmen work together to
+      create homes that are as beautiful as they are responsible — blending
+      modern aesthetics with time-tested building techniques and the latest in
+      green technology.
     actions:
       - label: Contact Us
         url: '#contact'
@@ -209,7 +229,9 @@ sections:
         tagline: Architectural Design
         subtitle: Walls of Light
         text: >
-          Expansive glass facades and curtain walls flood interiors with natural light while framing views of meticulously landscaped grounds. Our high-performance glazing systems maximize energy efficiency.
+          Expansive glass facades and curtain walls flood interiors with natural
+          light while framing views of meticulously landscaped grounds. Our
+          high-performance glazing systems maximize energy efficiency.
         image:
           url: /images/abstract-feature1.svg
           altText: Glass architecture
@@ -232,7 +254,9 @@ sections:
         tagline: Sustainable Energy
         subtitle: Powering the Future
         text: >
-          Every Veritas home features integrated solar panel systems designed to blend seamlessly with the roofline. Our homes generate clean energy while maintaining architectural elegance.
+          Every Veritas home features integrated solar panel systems designed to
+          blend seamlessly with the roofline. Our homes generate clean energy
+          while maintaining architectural elegance.
         image:
           url: /images/abstract-feature2.svg
           altText: Solar panels
@@ -255,7 +279,9 @@ sections:
         tagline: Premium Materials
         subtitle: Timeless Elegance
         text: >
-          Hand-selected natural stone creates facades of enduring beauty. From limestone to granite, our stone work adds warmth, texture, and a connection to the natural landscape surrounding each property.
+          Hand-selected natural stone creates facades of enduring beauty. From
+          limestone to granite, our stone work adds warmth, texture, and a
+          connection to the natural landscape surrounding each property.
         image:
           url: /images/abstract-feature1.svg
           altText: Stone facade
@@ -278,7 +304,9 @@ sections:
         tagline: Outdoor Living
         subtitle: Grounds of Grandeur
         text: >
-          Professional landscape design with custom hardscaping transforms each one-acre-plus lot into a private estate. Patios, walkways, retaining walls, and outdoor living spaces extend the home into nature.
+          Professional landscape design with custom hardscaping transforms each
+          one-acre-plus lot into a private estate. Patios, walkways, retaining
+          walls, and outdoor living spaces extend the home into nature.
         image:
           url: /images/abstract-feature2.svg
           altText: Hardscape design
@@ -301,7 +329,10 @@ sections:
         tagline: Foundation to Finish
         subtitle: Precision Grading & Preparation
         text: >
-          Expert site preparation, grading, and drainage engineering ensure every home sits perfectly on its lot. Our site work teams handle everything from tree preservation to custom driveways and entry features.
+          Expert site preparation, grading, and drainage engineering ensure
+          every home sits perfectly on its lot. Our site work teams handle
+          everything from tree preservation to custom driveways and entry
+          features.
         image:
           url: /images/abstract-feature1.svg
           altText: Site work
@@ -324,7 +355,9 @@ sections:
         tagline: Modern Technology
         subtitle: Intelligent Living
         text: >
-          Integrated smart home technology controls lighting, climate, security, and entertainment throughout. Every Veritas home is wired for the future with the latest in home automation infrastructure.
+          Integrated smart home technology controls lighting, climate, security,
+          and entertainment throughout. Every Veritas home is wired for the
+          future with the latest in home automation infrastructure.
         image:
           url: /images/abstract-feature2.svg
           altText: Smart home
@@ -398,11 +431,15 @@ sections:
     subtitle: What our clients say
     items:
       - title: >-
-          "Veritas Builders transformed our vision into a home that exceeds every expectation. The attention to sustainable design without sacrificing luxury is unmatched."
+          "Veritas Builders transformed our vision into a home that exceeds
+          every expectation. The attention to sustainable design without
+          sacrificing luxury is unmatched."
         tagline: Great Falls, Virginia
-        subtitle: 'The Richardson Family'
+        subtitle: The Richardson Family
         text: >-
-          Our 6,200 sq ft home on 2.5 acres features floor-to-ceiling glass, a solar panel system, and a natural stone facade that blends perfectly with the wooded lot.
+          Our 6,200 sq ft home on 2.5 acres features floor-to-ceiling glass, a
+          solar panel system, and a natural stone facade that blends perfectly
+          with the wooded lot.
         image:
           url: /images/person-placeholder-light.png
           altText: Client testimonial
@@ -425,11 +462,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "From site preparation to the final walkthrough, every phase of the build was executed with precision. The hardscaping and yard design are absolutely stunning."
+          "From site preparation to the final walkthrough, every phase of the
+          build was executed with precision. The hardscaping and yard design are
+          absolutely stunning."
         tagline: Potomac, Maryland
-        subtitle: 'The Chen Family'
+        subtitle: The Chen Family
         text: >-
-          Our 5,800 sq ft estate on 1.5 acres includes custom stone patios, a climate-controlled wine cellar, and a full solar energy system that powers the entire home.
+          Our 5,800 sq ft estate on 1.5 acres includes custom stone patios, a
+          climate-controlled wine cellar, and a full solar energy system that
+          powers the entire home.
         image:
           url: /images/person-placeholder-light.png
           altText: Client testimonial
@@ -452,11 +493,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Working with Veritas was a true partnership. They listened to our needs and delivered a home that is both architecturally breathtaking and incredibly energy efficient."
+          "Working with Veritas was a true partnership. They listened to our
+          needs and delivered a home that is both architecturally breathtaking
+          and incredibly energy efficient."
         tagline: McLean, Virginia
-        subtitle: 'The Patel Family'
+        subtitle: The Patel Family
         text: >-
-          Our 7,100 sq ft modern estate features a dramatic glass entryway, native landscaping on 3 acres, and geothermal heating and cooling throughout.
+          Our 7,100 sq ft modern estate features a dramatic glass entryway,
+          native landscaping on 3 acres, and geothermal heating and cooling
+          throughout.
         image:
           url: /images/person-placeholder-light.png
           altText: Client testimonial
@@ -504,7 +549,8 @@ sections:
     text: >-
       Ready to begin? Tell us about your vision and we'll schedule a
       complimentary consultation to discuss your new custom home in the DC,
-      Maryland, or Virginia area. Reach us directly at contact@veritasbuilders.net.
+      Maryland, or Virginia area. Reach us directly at
+      contact@veritasbuilders.net.
     media:
       fields:
         - name: name
@@ -531,7 +577,9 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell us about your project — location, size, timeline, and any special features
+          placeholder: >-
+            Tell us about your project — location, size, timeline, and any
+            special features
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -564,7 +612,10 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Veritas Builders - Luxury Sustainable Homes in DC, MD & VA
-  metaDescription: Veritas Builders specializes in high-end, sustainably built modern homes over 5,000 sq ft in the Washington DC, Maryland, and Virginia region. Solar panels, stone facades, glass walls, and expert craftsmanship.
+  metaDescription: >-
+    Veritas Builders specializes in high-end, sustainably built modern homes
+    over 5,000 sq ft in the Washington DC, Maryland, and Virginia region. Solar
+    panels, stone facades, glass walls, and expert craftsmanship.
   socialImage: /images/veritas-builders-logo.png
   type: Seo
 type: PageLayout
