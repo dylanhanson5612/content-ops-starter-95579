@@ -95,7 +95,7 @@ sections:
           Veritas home is designed for minimal environmental impact without
           compromising on luxury or comfort. We build for generations.
         image:
-          url: /images/icon2.svg
+          url: /images/Hero Exterior.png
           altText: Sustainability icon
           elementId: ''
           type: ImageBlock
