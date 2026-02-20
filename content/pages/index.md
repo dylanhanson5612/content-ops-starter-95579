@@ -233,7 +233,7 @@ sections:
           light while framing views of meticulously landscaped grounds. Our
           high-performance glazing systems maximize energy efficiency.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Designer (2).png
           altText: Glass architecture
           styles:
             self:
