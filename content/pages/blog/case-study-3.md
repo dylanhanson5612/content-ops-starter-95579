@@ -3,9 +3,11 @@ title: The Georgetown Ridge
 slug: case-study-3
 date: '2025-05-20'
 excerpt: >-
-  A 5,400 sq ft modern residence in Northwest DC on 1.2 acres, showcasing a granite and glass facade, rooftop solar integration, and a courtyard garden with custom hardscape.
+  A 5,400 sq ft modern residence in Northwest DC on 1.2 acres, showcasing a
+  granite and glass facade, rooftop solar integration, and a courtyard garden
+  with custom hardscape.
 featuredImage:
-  url: /images/abstract-feature1.svg
+  url: /images/ChatGPT Image Feb 20, 2026, 01_50_03 PM.png
   altText: The Georgetown Ridge by Veritas Builders
   styles:
     self:
@@ -31,7 +33,8 @@ bottomSections:
       type: TitleBlock
     subtitle: Contact us to schedule a complimentary consultation
     text: >
-      Every Veritas home begins with a conversation. Tell us about your vision and we'll help you bring it to life.
+      Every Veritas home begins with a conversation. Tell us about your vision
+      and we'll help you bring it to life.
     actions:
       - label: View All Projects
         url: /blog
