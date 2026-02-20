@@ -308,7 +308,8 @@ sections:
           one-acre-plus lot into a private estate. Patios, walkways, retaining
           walls, and outdoor living spaces extend the home into nature.
         image:
-          url: /images/abstract-feature2.svg
+          url: >-
+            /images/high-res-photo-of-luxury-landscape-design-yard-with-minimalist-modern-elegance-structured-planting-beds-of-gray-gravel-and-low-boxwood-mounds-accented-by-a-sculpted-tiered-pine-and-a-slim-conifer.jpg
           altText: Hardscape design
           styles:
             self:
