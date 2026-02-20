@@ -443,7 +443,7 @@ sections:
           solar panel system, and a natural stone facade that blends perfectly
           with the wooded lot.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/3015 Kitchen.JPG
           altText: Client testimonial
           styles:
             self:
