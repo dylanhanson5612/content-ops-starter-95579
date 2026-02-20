@@ -1,5 +1,5 @@
 ---
-title: The Woodridge Estate
+title: The Woodridge Renovation
 slug: case-study-1
 date: '2025-01-15'
 excerpt: >-
