@@ -3,9 +3,11 @@ title: The Middleburg Modern
 slug: case-study-2
 date: '2025-03-10'
 excerpt: >-
-  A 7,200 sq ft contemporary farmhouse on 3.5 acres in Middleburg, VA blending modern glass architecture with reclaimed stone, featuring a net-zero solar and geothermal system.
+  A 7,200 sq ft contemporary farmhouse on 3.5 acres in Middleburg, VA blending
+  modern glass architecture with reclaimed stone, featuring a net-zero solar and
+  geothermal system.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/ChatGPT Image Feb 20, 2026, 01_57_08 PM.png
   altText: The Middleburg Modern by Veritas Builders
   styles:
     self:
@@ -31,7 +33,8 @@ bottomSections:
       type: TitleBlock
     subtitle: Contact us to schedule a complimentary consultation
     text: >
-      Every Veritas home begins with a conversation. Tell us about your vision and we'll help you bring it to life.
+      Every Veritas home begins with a conversation. Tell us about your vision
+      and we'll help you bring it to life.
     actions:
       - label: View All Projects
         url: /blog
