@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/veritas-builders-logo.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "Veritas Builders",
+    "defaultSocialImage": "/images/veritas-builders-logo.png",
     "type": "Config",
     "header": "content/data/header.json"
 }

@@ -1,20 +1,23 @@
 ---
-title: Blog
+title: Portfolio
 slug: /blog
-numOfPostsPerPage: 8
-enableSearch: true
+numOfPostsPerPage: 12
+enableSearch: false
 topSections:
   - title:
-      text: Featured Post
+      text: Our Portfolio
       color: text-dark
+      styles:
+        self:
+          textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Explore our collection of luxury sustainable homes built across the DC, Maryland, and Virginia region
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/case-study-1.md
     showThumbnail: true
     showExcerpt: true
-    showDate: true
-    showAuthor: true
+    showDate: false
+    showAuthor: false
     variant: big-list
     colors: bg-light-fg-dark
     styles:
@@ -31,11 +34,10 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Portfolio - Veritas Builders
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+    Explore our portfolio of luxury sustainable homes across DC, Maryland, and Virginia. Each project showcases our commitment to quality, sustainability, and modern design.
+  socialImage: /images/veritas-builders-logo.png
   type: Seo
 type: PostFeedLayout
 bottomSections: []
@@ -45,8 +47,8 @@ postFeed:
   subtitle: null
   showThumbnail: true
   showExcerpt: true
-  showDate: true
-  showAuthor: true
+  showDate: false
+  showAuthor: false
   actions: []
   elementId: null
   variant: three-col-grid
