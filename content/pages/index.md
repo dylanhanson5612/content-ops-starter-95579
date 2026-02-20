@@ -474,7 +474,7 @@ sections:
           climate-controlled wine cellar, and a full solar energy system that
           powers the entire home.
         image:
-          url: /images/Interior Kitchen Close up.png
+          url: /images/Exterior Night Aerial.png
           altText: Client testimonial
           styles:
             self:
