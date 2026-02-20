@@ -258,7 +258,7 @@ sections:
           blend seamlessly with the roofline. Our homes generate clean energy
           while maintaining architectural elegance.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Designer (3).png
           altText: Solar panels
           styles:
             self:
