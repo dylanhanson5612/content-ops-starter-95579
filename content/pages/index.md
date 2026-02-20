@@ -4,27 +4,25 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
-      color: text-dark
+      text: Building Tomorrow's Legacy Homes Today
+      color: text-light
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: High-End Sustainable Living in DC, Maryland & Virginia
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Veritas Builders creates exceptional modern homes that harmonize luxury living with environmental responsibility. Every home we build exceeds 5,000 square feet on one acre or more, featuring cutting-edge sustainable technology, stunning architecture, and meticulous craftsmanship throughout the DC, Maryland, and Virginia region.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
+      - label: View Our Work
+        altText: View portfolio
+        url: /blog
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
+      - label: Request a Consultation
+        altText: Contact us
+        url: '#contact'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -32,42 +30,36 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/veritas-builders-logo.png
+      altText: Veritas Builders - Luxury Sustainable Home Builder
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-24
           - pl-16
-          - pb-16
+          - pb-24
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Why Choose Veritas Builders
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Where vision meets sustainable craftsmanship
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: 5,000+ Sq Ft
+        subtitle: Homes of Distinction
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Every Veritas home exceeds 5,000 square feet of thoughtfully designed living space, situated on a minimum of one acre. Expansive layouts offer room for both grand entertaining and intimate family moments.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -84,21 +76,19 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Large luxury home icon
           elementId: ''
           url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: 100% Sustainable
+        subtitle: Green Built from the Ground Up
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          From solar panel arrays to energy-efficient glass systems, every Veritas home is designed for minimal environmental impact without compromising on luxury or comfort. We build for generations.
         image:
           url: /images/icon2.svg
-          altText: Featured icon two
+          altText: Sustainability icon
           elementId: ''
           type: ImageBlock
         actions: []
@@ -115,15 +105,13 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: DC / MD / VA
+        subtitle: Premier DMV Builder
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Serving the most prestigious neighborhoods across Washington DC, Maryland, and Virginia. We understand the unique character of each community and build homes that complement their surroundings.
         image:
           url: /images/icon3.svg
-          altText: Featured icon three
+          altText: Location icon
           elementId: ''
           type: ImageBlock
         actions: []
@@ -139,22 +127,15 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Learn More About Us
         altText: ''
-        url: /
-        showIcon: false
+        url: '#about'
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -168,228 +149,42 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: About Veritas Builders
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Truth in Every Detail
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Founded on the principle that luxury and sustainability are not mutually exclusive, Veritas Builders has established itself as the premier custom home builder in the greater DC, Maryland, and Virginia region. Our name — from the Latin word for "truth" — reflects our unwavering commitment to honest craftsmanship, transparent partnerships, and genuine quality in everything we build.
+
+
+      We specialize in homes over 5,000 square feet on lots of one acre or larger, ensuring every residence has the space and setting it deserves. Our team of architects, engineers, and master craftsmen work together to create homes that are as beautiful as they are responsible — blending modern aesthetics with time-tested building techniques and the latest in green technology.
     actions:
-      - label: Get started
-        url: /
+      - label: Contact Us
+        url: '#contact'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
+      url: /images/veritas-builders-logo.png
+      altText: Veritas Builders craftsmanship
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
+    elementId: about
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
-    type: GenericSection
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -400,211 +195,24 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
-    items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - title:
-      text: List of features here
+  - type: FeaturedItemsSection
+    title:
+      text: Our Specialties
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Signature elements that define every Veritas home
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Floor-to-Ceiling Glass
+        tagline: Architectural Design
+        subtitle: Walls of Light
+        text: >
+          Expansive glass facades and curtain walls flood interiors with natural light while framing views of meticulously landscaped grounds. Our high-performance glazing systems maximize energy efficiency.
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          altText: Glass architecture
           styles:
             self:
               borderRadius: x-large
@@ -620,14 +228,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Solar Panel Integration
+        tagline: Sustainable Energy
+        subtitle: Powering the Future
+        text: >
+          Every Veritas home features integrated solar panel systems designed to blend seamlessly with the roofline. Our homes generate clean energy while maintaining architectural elegance.
         image:
           url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          altText: Solar panels
           styles:
             self:
               borderRadius: x-large
@@ -643,14 +251,83 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+      - title: Natural Stone Facades
+        tagline: Premium Materials
+        subtitle: Timeless Elegance
+        text: >
+          Hand-selected natural stone creates facades of enduring beauty. From limestone to granite, our stone work adds warmth, texture, and a connection to the natural landscape surrounding each property.
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          altText: Stone facade
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Landscape & Hardscape
+        tagline: Outdoor Living
+        subtitle: Grounds of Grandeur
+        text: >
+          Professional landscape design with custom hardscaping transforms each one-acre-plus lot into a private estate. Patios, walkways, retaining walls, and outdoor living spaces extend the home into nature.
+        image:
+          url: /images/abstract-feature2.svg
+          altText: Hardscape design
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Custom Site Work
+        tagline: Foundation to Finish
+        subtitle: Precision Grading & Preparation
+        text: >
+          Expert site preparation, grading, and drainage engineering ensure every home sits perfectly on its lot. Our site work teams handle everything from tree preservation to custom driveways and entry features.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Site work
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Smart Home Systems
+        tagline: Modern Technology
+        subtitle: Intelligent Living
+        text: >
+          Integrated smart home technology controls lighting, climate, security, and entertainment throughout. Every Veritas home is wired for the future with the latest in home automation infrastructure.
+        image:
+          url: /images/abstract-feature2.svg
+          altText: Smart home
           styles:
             self:
               borderRadius: x-large
@@ -678,17 +355,156 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: FeaturedItemsSection
+    elementId: services
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: false
+    showAuthor: false
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    title:
+      text: Featured Projects
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: A glimpse of our recent work across the DC, MD & VA region
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
+  - type: CarouselSection
+    title: null
+    subtitle: What our clients say
+    items:
+      - title: >-
+          "Veritas Builders transformed our vision into a home that exceeds every expectation. The attention to sustainable design without sacrificing luxury is unmatched."
+        tagline: Great Falls, Virginia
+        subtitle: 'The Richardson Family'
+        text: >-
+          Our 6,200 sq ft home on 2.5 acres features floor-to-ceiling glass, a solar panel system, and a natural stone facade that blends perfectly with the wooded lot.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: Client testimonial
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "From site preparation to the final walkthrough, every phase of the build was executed with precision. The hardscaping and yard design are absolutely stunning."
+        tagline: Potomac, Maryland
+        subtitle: 'The Chen Family'
+        text: >-
+          Our 5,800 sq ft estate on 1.5 acres includes custom stone patios, a climate-controlled wine cellar, and a full solar energy system that powers the entire home.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: Client testimonial
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "Working with Veritas was a true partnership. They listened to our needs and delivered a home that is both architecturally breathtaking and incredibly energy efficient."
+        tagline: McLean, Virginia
+        subtitle: 'The Patel Family'
+        text: >-
+          Our 7,100 sq ft modern estate features a dramatic glass entryway, native landscaping on 3 acres, and geothermal heating and cooling throughout.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: Client testimonial
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+    elementId: null
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
-      text: Generic Section With A Form
+      text: Start Your Project
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Let's build your dream home together
+    text: >-
+      Ready to begin? Tell us about your vision and we'll schedule a
+      complimentary consultation to discuss your new custom home in the DC,
+      Maryland, or Virginia area. Reach us directly at contact@veritasbuilders.net.
     media:
       fields:
         - name: name
@@ -705,10 +521,17 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - name: phone
+          label: Phone
+          hideLabel: true
+          placeholder: Your phone number
+          isRequired: false
+          width: full
+          type: TextFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Tell us about your project — location, size, timeline, and any special features
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -726,7 +549,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send Message
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -737,11 +560,12 @@ sections:
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
+    elementId: contact
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Veritas Builders - Luxury Sustainable Homes in DC, MD & VA
+  metaDescription: Veritas Builders specializes in high-end, sustainably built modern homes over 5,000 sq ft in the Washington DC, Maryland, and Virginia region. Solar panels, stone facades, glass walls, and expert craftsmanship.
+  socialImage: /images/veritas-builders-logo.png
   type: Seo
 type: PageLayout
 ---

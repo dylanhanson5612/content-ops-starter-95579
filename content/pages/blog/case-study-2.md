@@ -1,15 +1,12 @@
 ---
-title: Case study 2
+title: The Middleburg Modern
 slug: case-study-2
-date: '2022-02-16'
+date: '2025-03-10'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  A 7,200 sq ft contemporary farmhouse on 3.5 acres in Middleburg, VA blending modern glass architecture with reclaimed stone, featuring a net-zero solar and geothermal system.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 2
+  url: /images/abstract-feature2.svg
+  altText: The Middleburg Modern by Veritas Builders
   styles:
     self:
       borderRadius: x-large
@@ -25,52 +22,46 @@ bottomSections:
           - pb-7
           - pr-7
     type: DividerSection
-  - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
-    variant: small-list
-    colors: bg-light-fg-dark
+  - title:
+      text: Interested in Building Your Dream Home?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Contact us to schedule a complimentary consultation
+    text: >
+      Every Veritas home begins with a conversation. Tell us about your vision and we'll help you bring it to life.
+    actions:
+      - label: View All Projects
+        url: /blog
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: Contact Us
+        url: /#contact
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    colors: bg-neutral-fg-dark
     styles:
       self:
-        margin:
-          - mb-20
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
+        flexDirection: col
+      text:
+        textAlign: center
       subtitle:
         textAlign: center
-    type: FeaturedItemsSection
-isFeatured: true
+    type: GenericSection
+isFeatured: false
 colors: bg-light-fg-dark
 styles:
   self:
@@ -88,16 +79,27 @@ styles:
 type: PostLayout
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## Project Overview
 
-![](/images/img-placeholder.svg)
+The Middleburg Modern is a 7,200 square foot contemporary farmhouse that redefines luxury living in Virginia's horse country. Set on 3.5 acres of rolling terrain, this home bridges the gap between the region's agricultural heritage and forward-thinking sustainable design.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## Highlights
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Reclaimed Stone & Modern Lines** — The exterior pairs reclaimed Virginia fieldstone from a 19th-century barn with clean modern lines and dark metal cladding. The contrast creates an aesthetic that respects the area's rural character while making a bold contemporary statement.
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+**Floor-to-Ceiling Glass Gallery** — A 40-foot glass gallery hallway connects the main living wing to the guest suite, framing views of the Blue Ridge Mountains and creating a light-filled art display space.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+**Solar & Geothermal** — A 20kW solar array combined with a geothermal heat pump system makes this home net-zero energy. The home produces more energy than it consumes annually, with surplus energy fed back to the grid.
+
+**Resort-Style Grounds** — The landscape design includes a natural swimming pool with regenerative filtration, stone terraces at multiple levels, a fire pit gathering area built with native stone, and extensive native meadow plantings that support local wildlife.
+
+**Site Work Excellence** — Given the rolling terrain, precision grading and a comprehensive drainage system were critical. The team preserved over 30 mature trees while creating level building pads, a sweeping gravel approach drive, and a stone motor court.
+
+## Project Details
+
+- **Location:** Middleburg, Virginia
+- **Square Footage:** 7,200 sq ft
+- **Lot Size:** 3.5 acres
+- **Bedrooms:** 6
+- **Bathrooms:** 7
+- **Key Features:** Reclaimed stone, glass gallery, net-zero solar/geothermal, natural swimming pool, native meadow landscaping
