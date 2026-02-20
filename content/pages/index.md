@@ -335,7 +335,8 @@ sections:
           everything from tree preservation to custom driveways and entry
           features.
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/high-res-photo-of-luxury-landscape-design-yard-with-a-narrow-modern-lap-pool-centered-between-crisp-artificial-turf-and-clean-concrete-coping-structured-plantings-of-dwarf-cypress-clipped-boxwood-a.jpg
           altText: Site work
           styles:
             self:
