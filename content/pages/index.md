@@ -283,7 +283,7 @@ sections:
           limestone to granite, our stone work adds warmth, texture, and a
           connection to the natural landscape surrounding each property.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Designer.png
           altText: Stone facade
           styles:
             self:
