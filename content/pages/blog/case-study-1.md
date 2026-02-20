@@ -1,5 +1,5 @@
 ---
-title: The Kensington Estate
+title: The Woodridge Estate
 slug: case-study-1
 date: '2025-01-15'
 excerpt: >-
