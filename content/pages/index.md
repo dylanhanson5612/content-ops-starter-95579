@@ -62,10 +62,11 @@ sections:
       - type: FeaturedItem
         title: 5,000+ Sq Ft
         subtitle: Homes of Distinction
-        text: >-
-          Every Veritas home exceeds 5,000 square feet of thoughtfully designed
-          living space, situated on a minimum of one acre. Expansive layouts
-          offer room for both grand entertaining and intimate family moments.
+        text: >
+          Every Veritas home features thoughtfully designed interior living
+          spaces, merging the exterior with the interior for a seamless blend.
+          Expansive layouts offer room for both grand entertaining and intimate
+          family moments.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
