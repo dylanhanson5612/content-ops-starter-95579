@@ -7,7 +7,7 @@ excerpt: >-
   modern glass architecture with reclaimed stone, featuring a net-zero solar and
   geothermal system.
 featuredImage:
-  url: /images/1195F129-F82E-4F18-B2CC-EB8A9C096549.jpeg
+  url: /images/Applewood House.jpg
   altText: The Middleburg Modern by Veritas Builders
   styles:
     self:
