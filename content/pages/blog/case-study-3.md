@@ -81,16 +81,15 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
 ## Project Overview
 
-The Georgetown Ridge is a 5,400 square foot modern residence that brings the Veritas Builders philosophy of sustainable luxury to one of Washington DC's most coveted neighborhoods. Set on 1.2 acres — a rare find in the urban landscape — this home is a masterclass in making the most of a premium location.
+The McLean Estate is a 24,000 square foot modern wonder that brings the Veritas Builders philosophy of sustainable luxury to one of the Regions most coveted neighborhoods. Set on 1.1 acres — a rare find in the suburban landscape — this home is a masterclass in making the most of a premium location.
 
 ## Highlights
 
-**Granite & Glass Facade** — The street-facing elevation features a dramatic combination of honed black granite panels and triple-pane insulated glass. The material palette establishes a commanding presence while meeting the architectural standards of the historic neighborhood.
+**Granite & Glass Facade** — The street-facing elevation features a dramatic combination of honed natural stone panels and triple-pane insulated glass. The material palette establishes a commanding presence while meeting the architectural standards of the historic neighborhood.
 
-**Rooftop Solar System** — A discreet 12kW solar panel installation sits flush with the flat roof sections, invisible from street level. Combined with a high-efficiency HVAC system and superior insulation, the home achieves exceptional energy performance.
+**Rooftop Solar System** — A discreet 20kW solar panel installation sits flush with the flat roof sections, invisible from street level. Combined with a high-efficiency HVAC system and superior insulation, the home achieves exceptional energy performance.
 
 **Courtyard Garden** — The center of the home wraps around a private courtyard garden accessible from the living room, dining room, and primary suite. Custom bluestone pavers, a reflecting pool, specimen Japanese maples, and integrated landscape lighting create a serene urban oasis.
 
@@ -100,9 +99,10 @@ The Georgetown Ridge is a 5,400 square foot modern residence that brings the Ver
 
 ## Project Details
 
-- **Location:** Northwest Washington, DC
-- **Square Footage:** 5,400 sq ft
-- **Lot Size:** 1.2 acres
-- **Bedrooms:** 4
-- **Bathrooms:** 5
-- **Key Features:** Black granite facade, rooftop solar, private courtyard garden, heated walkways, multi-level outdoor terraces
+*   **Location:** McLean, VA
+*   **Square Footage:** 24,000 sq ft
+*   **Lot Size:** 1.1 acres
+*   **Bedrooms:** 6+
+*   **Bathrooms:** 6+
+*   **Key Features:** Stone facade, rooftop solar, private courtyard garden, Interior heated floors, 7 chimneys and 7 staircases, Int/Ext Pools, Sauna/Steam/Salt Rooms, Multi Car garage with Lift to Street
+
