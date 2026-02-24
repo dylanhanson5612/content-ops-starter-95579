@@ -1,5 +1,5 @@
 ---
-title: The Middleburg Modern
+title: The Rockville Revival
 slug: case-study-2
 date: '2025-03-10'
 excerpt: >-
