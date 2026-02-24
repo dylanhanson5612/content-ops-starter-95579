@@ -1,7 +1,7 @@
 ---
 title: The Woodridge Renovation
 slug: case-study-1
-date: '2026-04-15'
+date: '2026-04-01'
 excerpt: >-
   A 6,500 sq ft modern estate in Bethesda, MD featuring a dramatic stone facade,
   integrated solar array, and expansive glass walls overlooking 2 acres of
