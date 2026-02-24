@@ -7,7 +7,7 @@ excerpt: >-
   integrated solar array, and expansive glass walls overlooking 2 acres of
   professionally landscaped grounds.
 featuredImage:
-  url: /images/IMG_0117.jpeg
+  url: /images/Woodridge 2.JPG
   altText: The Kensington Estate by Veritas Builders
   styles:
     self:
