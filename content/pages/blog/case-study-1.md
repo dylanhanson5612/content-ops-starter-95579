@@ -83,7 +83,7 @@ type: PostLayout
 ---
 ## Project Overview
 
-The Woodridge Renovation is a stunning 3,600 square foot modern residence situated on .25 acres in one of DC's most up and coming neighborhoods. This home represents the pinnacle of sustainable luxury, combining cutting-edge green technology with timeless architectural design blending 1913 bones with modern materials and design.
+The Woodridge Renovation is a stunning 3,600 square foot modern residence situated on .2 acres in one of DC's most up and coming neighborhoods. This home represents the pinnacle of sustainable luxury, combining cutting-edge green technology with timeless architectural design blending 1913 bones with modern materials and design.
 
 ![](/images/IMG_0146.jpeg)
 
@@ -93,7 +93,7 @@ The Woodridge Renovation is a stunning 3,600 square foot modern residence situat
 
 **Solar Integration** — A 15kW solar panel system is seamlessly integrated into the standing-seam metal roof, generating enough clean energy to power the home year-round. The system includes battery storage for energy independence during peak demand.
 
-**Glass & Light** — Every room in this 3-story home has natural light beaming in at every angle. What was a closed off home now features stunning sunshine at all hours of the day with minimal interior lighting use. 
+**Glass & Light** — Every room in this 3-story home has natural light beaming in at every angle. What was a closed off home now features stunning sunshine at all hours of the day with minimal interior lighting use.
 
 **Landscape & Hardscape** — The grounds include a permeable paver stone driveway, heated outdoor living pavilion, native pollinator gardens, and a natural stone retaining wall system that follows the gentle slope of the property.
 
@@ -103,7 +103,7 @@ The Woodridge Renovation is a stunning 3,600 square foot modern residence situat
 
 *   **Location:** Woodridge, DC
 *   **Square Footage:** 3,600 sq ft
-*   **Lot Size:** .1 acres
+*   **Lot Size:** .2 acres
 *   **Bedrooms:** 4
 *   **Bathrooms:** 3.5
 *   **Key Features:** Fiber Cement x Stone facade, solar array, 3 pane windows, heated outdoor pavilion, smart home automation
