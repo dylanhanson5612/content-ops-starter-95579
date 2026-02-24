@@ -83,7 +83,7 @@ type: PostLayout
 ---
 ## Project Overview
 
-The Kensington Estate is a stunning 6,500 square foot modern residence situated on 2 acres in one of Bethesda's most prestigious neighborhoods. This home represents the pinnacle of sustainable luxury, combining cutting-edge green technology with timeless architectural design.
+The Woodridge Renovation is a stunning 3,600 square foot modern residence situated on .25 acres in one of DC's most up and coming neighborhoods. This home represents the pinnacle of sustainable luxury, combining cutting-edge green technology with timeless architectural design blending 1913 bones with modern materials and design.
 
 ![](/images/IMG_0146.jpeg)
 
@@ -93,18 +93,18 @@ The Kensington Estate is a stunning 6,500 square foot modern residence situated 
 
 **Solar Integration** — A 15kW solar panel system is seamlessly integrated into the standing-seam metal roof, generating enough clean energy to power the home year-round. The system includes battery storage for energy independence during peak demand.
 
-**Glass & Light** — The rear elevation features a 24-foot-tall glass curtain wall that floods the great room with natural light and provides uninterrupted views of the landscaped backyard, mature hardwoods, and a custom stone patio with outdoor kitchen.
+**Glass & Light** — Every room in this 3-story home has natural light beaming in at every angle. What was a closed off home now features stunning sunshine at all hours of the day with minimal interior lighting use. 
 
-**Landscape & Hardscape** — The grounds include a circular stone driveway, formal entry courtyard, heated outdoor living pavilion, native pollinator gardens, and a natural stone retaining wall system that follows the gentle slope of the property.
+**Landscape & Hardscape** — The grounds include a permeable paver stone driveway, heated outdoor living pavilion, native pollinator gardens, and a natural stone retaining wall system that follows the gentle slope of the property.
 
-**Site Work** — Extensive grading and stormwater management systems were installed to protect the property and surrounding watershed. A permeable paver driveway and bio-retention areas handle runoff naturally.
+**Site Work** — Extensive grading and underground rainwater collection systems were installed to protect the property and surrounding watershed. A permeable paver driveway and bio-retention areas handle runoff naturally.
 
 ## Project Details
 
-*   **Location:** Bethesda, Maryland
-*   **Square Footage:** 6,500 sq ft
-*   **Lot Size:** 2.0 acres
-*   **Bedrooms:** 5
-*   **Bathrooms:** 6
-*   **Key Features:** Stone facade, solar array, glass curtain wall, heated outdoor pavilion, smart home automation
+*   **Location:** Woodridge, DC
+*   **Square Footage:** 3,600 sq ft
+*   **Lot Size:** .1 acres
+*   **Bedrooms:** 4
+*   **Bathrooms:** 3.5
+*   **Key Features:** Fiber Cement x Stone facade, solar array, 3 pane windows, heated outdoor pavilion, smart home automation
 
