@@ -85,6 +85,8 @@ type: PostLayout
 
 The Rockville Modernization is a 5,000+ square foot contemporary farmhouse that redefines luxury living in Maryland's horse country. Set on 3.5 acres of rolling terrain, this home bridges the gap between the region's agricultural heritage and forward-thinking sustainable design.
 
+![](/images/1195F129-F82E-4F18-B2CC-EB8A9C096549.jpeg)
+
 ## Highlights
 
 **Reclaimed Stone & Modern Lines** — The exterior pairs reclaimed Virginia fieldstone from a 19th-century barn with clean modern lines and dark metal cladding. The contrast creates an aesthetic that respects the area's rural character while making a bold contemporary statement.
