@@ -7,7 +7,7 @@ excerpt: >-
   modern glass architecture with reclaimed stone, featuring a net-zero solar and
   geothermal system.
 featuredImage:
-  url: /images/ChatGPT Image Feb 20, 2026, 01_57_08 PM.png
+  url: /images/1195F129-F82E-4F18-B2CC-EB8A9C096549.jpeg
   altText: The Middleburg Modern by Veritas Builders
   styles:
     self:
