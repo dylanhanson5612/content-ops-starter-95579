@@ -1,5 +1,5 @@
 ---
-title: The Rockville Revival
+title: The Rockville Modernization
 slug: case-study-2
 date: '2025-03-10'
 excerpt: >-
