@@ -1,5 +1,5 @@
 ---
-title: The Georgetown Ridge
+title: The McLean Estate
 slug: case-study-3
 date: '2025-05-20'
 excerpt: >-
