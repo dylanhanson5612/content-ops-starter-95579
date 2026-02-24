@@ -7,7 +7,7 @@ excerpt: >-
   granite and glass facade, rooftop solar integration, and a courtyard garden
   with custom hardscape.
 featuredImage:
-  url: /images/ChatGPT Image Feb 20, 2026, 01_50_03 PM.png
+  url: /images/mclean house.JPG
   altText: The Georgetown Ridge by Veritas Builders
   styles:
     self:
