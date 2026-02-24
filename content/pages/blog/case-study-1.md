@@ -81,10 +81,11 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
 ## Project Overview
 
 The Kensington Estate is a stunning 6,500 square foot modern residence situated on 2 acres in one of Bethesda's most prestigious neighborhoods. This home represents the pinnacle of sustainable luxury, combining cutting-edge green technology with timeless architectural design.
+
+![](/images/IMG_0146.jpeg)
 
 ## Highlights
 
@@ -100,9 +101,10 @@ The Kensington Estate is a stunning 6,500 square foot modern residence situated 
 
 ## Project Details
 
-- **Location:** Bethesda, Maryland
-- **Square Footage:** 6,500 sq ft
-- **Lot Size:** 2.0 acres
-- **Bedrooms:** 5
-- **Bathrooms:** 6
-- **Key Features:** Stone facade, solar array, glass curtain wall, heated outdoor pavilion, smart home automation
+*   **Location:** Bethesda, Maryland
+*   **Square Footage:** 6,500 sq ft
+*   **Lot Size:** 2.0 acres
+*   **Bedrooms:** 5
+*   **Bathrooms:** 6
+*   **Key Features:** Stone facade, solar array, glass curtain wall, heated outdoor pavilion, smart home automation
+
