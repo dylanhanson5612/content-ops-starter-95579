@@ -171,7 +171,7 @@ sections:
     subtitle: Truth in Every Detail
     text: >
       Founded on the principle that luxury and sustainability are not mutually
-      exclusive, Veritas Builders has established itself as the premier custom
+      exclusive, Veritas Builders has established itself as the modern custom
       home builder in the greater DC, Maryland, and Virginia region. Our name —
       from the Latin word for "truth" — reflects our unwavering commitment to
       honest craftsmanship, transparent partnerships, and genuine quality in
