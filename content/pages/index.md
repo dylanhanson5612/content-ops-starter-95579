@@ -359,8 +359,10 @@ sections:
         subtitle: Intelligent Living
         text: >
           Integrated smart home technology controls lighting, climate, security,
-          and entertainment throughout. Every Veritas home is wired for the
-          future with the latest in home automation infrastructure.
+          and entertainment throughout. Every Veritas home is wired/wireless for
+          the future with the latest in home automation infrastructure. The
+          future of sustainability and energy independence is brought to each
+          individual home for generations to come. 
         image:
           url: /images/Smart_Light_a680e424-11ca-4ccc-bf1b-f26322ee3037.PNG
           altText: Smart home
