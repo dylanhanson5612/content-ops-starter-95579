@@ -81,10 +81,9 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
 ## Project Overview
 
-The Middleburg Modern is a 7,200 square foot contemporary farmhouse that redefines luxury living in Virginia's horse country. Set on 3.5 acres of rolling terrain, this home bridges the gap between the region's agricultural heritage and forward-thinking sustainable design.
+The Rockville Modernization is a 5,000+ square foot contemporary farmhouse that redefines luxury living in Maryland's horse country. Set on 3.5 acres of rolling terrain, this home bridges the gap between the region's agricultural heritage and forward-thinking sustainable design.
 
 ## Highlights
 
@@ -100,9 +99,10 @@ The Middleburg Modern is a 7,200 square foot contemporary farmhouse that redefin
 
 ## Project Details
 
-- **Location:** Middleburg, Virginia
-- **Square Footage:** 7,200 sq ft
-- **Lot Size:** 3.5 acres
-- **Bedrooms:** 6
-- **Bathrooms:** 7
-- **Key Features:** Reclaimed stone, glass gallery, net-zero solar/geothermal, natural swimming pool, native meadow landscaping
+*   **Location:** Rockville, Maryland
+*   **Square Footage:** 5,200 sq ft
+*   **Lot Size:** 1 acre
+*   **Bedrooms:** 5
+*   **Bathrooms:** 5.5
+*   **Key Features:** Reclaimed stone, glass gallery, net-zero solar/geothermal, natural swimming pool, native meadow landscaping
+
