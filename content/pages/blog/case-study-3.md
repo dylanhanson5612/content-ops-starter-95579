@@ -85,6 +85,8 @@ type: PostLayout
 
 The McLean Estate is a 24,000 square foot modern wonder that brings the Veritas Builders philosophy of sustainable luxury to one of the Regions most coveted neighborhoods. Set on 1.1 acres — a rare find in the suburban landscape — this home is a masterclass in making the most of a premium location.
 
+![](/images/IMG_4636.jpg)
+
 ## Highlights
 
 **Granite & Glass Facade** — The street-facing elevation features a dramatic combination of honed natural stone panels and triple-pane insulated glass. The material palette establishes a commanding presence while meeting the architectural standards of the historic neighborhood.
