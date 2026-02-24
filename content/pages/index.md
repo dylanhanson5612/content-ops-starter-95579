@@ -10,10 +10,10 @@ sections:
     subtitle: High-End Sustainable Living in DC, Maryland & Virginia
     text: >
       Veritas Builders creates exceptional modern homes that harmonize luxury
-      living with environmental responsibility. Every home we build exceeds
-      5,000 square feet on one acre or more, featuring cutting-edge sustainable
-      technology, stunning architecture, and meticulous craftsmanship throughout
-      the DC, Maryland, and Virginia region.
+      living with environmental responsibility. Every home we build has a
+      collaborative process from start to finish, featuring cutting-edge
+      sustainable technology, stunning architecture, and meticulous
+      craftsmanship throughout the DC, Maryland, and Virginia region.
     actions:
       - label: View Our Work
         altText: View portfolio
