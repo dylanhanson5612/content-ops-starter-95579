@@ -60,7 +60,7 @@ topSections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Founder and Builder
       color: text-primary
     colors: bg-light-fg-dark
     styles:
