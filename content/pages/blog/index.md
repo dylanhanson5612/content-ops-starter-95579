@@ -12,8 +12,8 @@ topSections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Explore our collection of luxury sustainable homes built across the DC,
-      Maryland, and Virginia region
+      Get to know our Founder and our collection of luxury sustainable homes
+      built across the DC, Maryland, and Virginia region
     posts:
       - content/pages/blog/case-study-1.md
     showThumbnail: true
