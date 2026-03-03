@@ -29,7 +29,7 @@
             "type": "Link"
         },
         {
-            "label": "Portfolio",
+            "label": "Portfolio/About",
             "altText": "Featured Projects",
             "url": "/blog",
             "icon": "arrowRight",
