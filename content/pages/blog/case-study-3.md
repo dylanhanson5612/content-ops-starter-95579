@@ -4,8 +4,8 @@ slug: case-study-3
 date: '2025-05-20'
 excerpt: >-
   A 24,000 sq ft modern Estate in McLean, VA on 1.2 acres, showcasing a granite
-  and glass facade, rooftop solar integration, and a private rear garden with
-  custom hardscape and Solarium.
+  and glass facade, rooftop solar integration, underground car lift, a private
+  rear garden with custom hardscape and Solarium.
 featuredImage:
   url: /images/mclean house.JPG
   altText: The Georgetown Ridge by Veritas Builders
