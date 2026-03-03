@@ -7,7 +7,7 @@ excerpt: >-
   facade, integrated solar array, and endless natural light situated on top of a
   hill overlooking downtown DC.
 featuredImage:
-  url: /images/Dylan Hanson (697).jpg
+  url: /images/IMG_0117.jpeg
   altText: Founder of Veritas Builders
   styles:
     self:
