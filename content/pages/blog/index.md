@@ -5,13 +5,15 @@ numOfPostsPerPage: 12
 enableSearch: false
 topSections:
   - title:
-      text: Our Portfolio
+      text: Meet Our Builder & Our Portfolio
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Explore our collection of luxury sustainable homes built across the DC, Maryland, and Virginia region
+    subtitle: >-
+      Explore our collection of luxury sustainable homes built across the DC,
+      Maryland, and Virginia region
     posts:
       - content/pages/blog/case-study-1.md
     showThumbnail: true
@@ -36,7 +38,9 @@ styles:
 seo:
   metaTitle: Portfolio - Veritas Builders
   metaDescription: >-
-    Explore our portfolio of luxury sustainable homes across DC, Maryland, and Virginia. Each project showcases our commitment to quality, sustainability, and modern design.
+    Explore our portfolio of luxury sustainable homes across DC, Maryland, and
+    Virginia. Each project showcases our commitment to quality, sustainability,
+    and modern design.
   socialImage: /images/veritas-builders-logo.png
   type: Seo
 type: PostFeedLayout
