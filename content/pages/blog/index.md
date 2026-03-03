@@ -36,7 +36,7 @@ topSections:
       type: TitleBlock
       text: Dylan Hanson
       color: text-dark
-    subtitle: $1.1B in projects built and managed
+    subtitle: $1.1B in projects-over 11+ years
     text: >+
       With more than 11 years of experience across every major sector of
       construction, I bring a depth of knowledge that few residential builders
