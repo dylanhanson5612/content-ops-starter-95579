@@ -8,7 +8,7 @@ excerpt: >-
   hill overlooking downtown DC.
 featuredImage:
   url: /images/Dylan Hanson (697).jpg
-  altText: The Kensington Estate by Veritas Builders
+  altText: Founder of Veritas Builders
   styles:
     self:
       borderRadius: large
