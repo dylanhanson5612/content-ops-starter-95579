@@ -3,9 +3,9 @@ title: The Rockville Modernization
 slug: case-study-2
 date: '2025-03-10'
 excerpt: >-
-  A 7,200 sq ft contemporary farmhouse on 3.5 acres in Middleburg, VA blending
-  modern glass architecture with reclaimed stone, featuring a net-zero solar and
-  geothermal system.
+  A 5,500 sq ft contemporary farmhouse on 1 acre in Derwood, MD blending
+  farmhouse chic with reclaimed stone, featuring a net-zero solar and geothermal
+  system.
 featuredImage:
   url: /images/Applewood House.jpg
   altText: The Middleburg Modern by Veritas Builders
