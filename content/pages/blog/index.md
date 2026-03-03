@@ -36,7 +36,7 @@ topSections:
       type: TitleBlock
       text: Dylan Hanson
       color: text-dark
-    subtitle: Be in good company
+    subtitle: $1.1B in projects built and managed
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
