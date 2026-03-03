@@ -7,7 +7,7 @@ excerpt: >-
   facade, integrated solar array, and endless natural light situated on top of a
   hill overlooking downtown DC.
 featuredImage:
-  url: /images/Woodridge 2.JPG
+  url: /images/Dylan Hanson (697).jpg
   altText: The Kensington Estate by Veritas Builders
   styles:
     self:
