@@ -5,7 +5,7 @@ date: '2025-05-20'
 excerpt: >-
   A 5,400 sq ft modern residence in Northwest DC on 1.2 acres, showcasing a
   granite and glass facade, rooftop solar integration, and a private rear garden
-  with custom hardscape and solarium.
+  with custom hardscape and Solarium.
 featuredImage:
   url: /images/mclean house.JPG
   altText: The Georgetown Ridge by Veritas Builders
