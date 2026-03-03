@@ -3,9 +3,9 @@ title: The Woodridge Renovation
 slug: case-study-1
 date: '2026-02-01'
 excerpt: >-
-  A 6,500 sq ft modern estate in Bethesda, MD featuring a dramatic stone facade,
-  integrated solar array, and expansive glass walls overlooking 2 acres of
-  professionally landscaped grounds.
+  A 3,600 sq ft modern Renovation in Washington, DC featuring a Fiber Cement
+  facade, integrated solar array, and endless natural light situated on top of a
+  hill overlooking downtown DC.
 featuredImage:
   url: /images/Woodridge 2.JPG
   altText: The Kensington Estate by Veritas Builders
