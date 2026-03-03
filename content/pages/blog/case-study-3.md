@@ -5,7 +5,7 @@ date: '2025-05-20'
 excerpt: >-
   A 24,000 sq ft modern Estate in McLean, VA on 1.2 acres, showcasing a granite
   and glass facade, rooftop solar integration, underground car lift, a private
-  rear garden with custom hardscape and eye grabbing conservatory.
+  rear garden with custom hardscape and an eye grabbing conservatory.
 featuredImage:
   url: /images/mclean house.JPG
   altText: The Georgetown Ridge by Veritas Builders
