@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /about
+slug: /
 sections:
   - type: GenericSection
     title:
@@ -17,7 +17,7 @@ sections:
     actions:
       - label: View Our Work
         altText: View portfolio
-        url: /blog
+        url: /about
         showIcon: true
         icon: arrowRight
         iconPosition: right

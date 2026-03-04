@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-slug: /About
+slug: /about
 numOfPostsPerPage: 12
 enableSearch: false
 topSections:

@@ -31,7 +31,7 @@
         {
             "label": "Portfolio/About",
             "altText": "Featured Projects",
-            "url": "/blog",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
