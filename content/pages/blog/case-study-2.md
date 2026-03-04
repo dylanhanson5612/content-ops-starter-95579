@@ -37,7 +37,7 @@ bottomSections:
       and we'll help you bring it to life.
     actions:
       - label: View All Projects
-        url: /blog
+        url: /about
         icon: arrowRight
         iconPosition: right
         style: secondary

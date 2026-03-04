@@ -37,12 +37,12 @@ export const config = defineStackbitConfig({
                 switch (document.modelName) {
                     case 'PostFeedLayout':
                         return {
-                            urlPath: '/blog',
+                            urlPath: '/about',
                             document: document
                         };
                     case 'PostLayout':
                         return {
-                            urlPath: `/blog/${slug}`,
+                            urlPath: `/about/${slug}`,
                             document: document
                         };
                     default:

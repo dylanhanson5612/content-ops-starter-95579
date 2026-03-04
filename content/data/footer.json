@@ -27,7 +27,7 @@
             },
             {
                 "label": "Portfolio",
-                "url": "/blog",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
