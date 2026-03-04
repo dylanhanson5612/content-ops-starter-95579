@@ -80,7 +80,7 @@ topSections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Dylan Hanson (697).jpg
+      url: /images/About Me Pic.JPG
       altText: Dope design preview
     badge:
       type: Badge
