@@ -7,18 +7,40 @@ import SubmitButtonFormControl from './SubmitButtonFormControl';
 
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
+    const [submitted, setSubmitted] = React.useState(false);
     const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
 
     if (fields.length === 0) {
         return null;
     }
 
-    function handleSubmit(event) {
+    async function handleSubmit(event) {
         event.preventDefault();
 
-        const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+        const formData = new FormData(formRef.current);
+
+        try {
+            const response = await fetch('/__forms.html', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams(formData as any).toString(),
+            });
+
+            if (response.ok) {
+                setSubmitted(true);
+            }
+        } catch (error) {
+            console.error('Form submission error:', error);
+        }
+    }
+
+    if (submitted) {
+        return (
+            <div className="sb-component sb-component-block sb-component-form-block text-center py-8">
+                <p className="text-lg font-semibold">Thank you for your message!</p>
+                <p>We'll be in touch soon.</p>
+            </div>
+        );
     }
 
     return (
@@ -41,6 +63,9 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
+            method="POST"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
@@ -50,6 +75,9 @@ export default function FormBlock(props) {
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
             >
                 <input type="hidden" name="form-name" value={elementId} />
+                <p style={{ display: 'none' }}>
+                    <label>Don't fill this out: <input name="bot-field" /></label>
+                </p>
                 {fields.map((field, index) => {
                     const modelName = field.__metadata.modelName;
                     if (!modelName) {
