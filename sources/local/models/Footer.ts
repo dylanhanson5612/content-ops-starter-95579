@@ -66,6 +66,14 @@ export const Footer: Model = {
             models: ['FooterLinksGroup']
         },
         {
+            type: 'string',
+            name: 'licenseNumbers',
+            label: 'License Numbers',
+            required: false,
+            hidden: false,
+            localized: false
+        },
+        {
             type: 'list',
             name: 'socialLinks',
             label: 'Social links',
